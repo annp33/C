@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645409200 source:c:\users\pichau\desktop\6-7-1-8_negativos_positivos_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+

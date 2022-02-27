@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645792421 source:c:\users\pichau\desktop\6-7-2-1_menor_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+

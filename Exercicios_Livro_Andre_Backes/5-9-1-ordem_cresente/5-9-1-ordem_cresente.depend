@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642789007 source:c:\users\pichau\desktop\5-9-1-ordem_cresente\main.c
+	<stdio.h>
+	<stdlib.h>
+

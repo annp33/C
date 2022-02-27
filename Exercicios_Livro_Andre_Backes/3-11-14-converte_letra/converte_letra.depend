@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642619452 source:c:\users\pichau\desktop\converte_letra\main.c
+	<stdio.h>
+	<stdlib.h>
+

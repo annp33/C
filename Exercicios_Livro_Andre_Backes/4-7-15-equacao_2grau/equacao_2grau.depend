@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642777756 source:c:\users\pichau\desktop\equacao_2grau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

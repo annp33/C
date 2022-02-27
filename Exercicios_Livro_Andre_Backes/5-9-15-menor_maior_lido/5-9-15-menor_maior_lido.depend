@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643411824 source:c:\users\pichau\desktop\5-9-15-menor_maior_lido\main.c
+	<stdio.h>
+	<stdlib.h>
+
